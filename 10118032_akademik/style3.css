@@ -1,0 +1,14 @@
+fieldset {
+    border: 1px solid #DDDDDD;
+    display: inline-block;
+    font-size: 14px;
+    font-family: Arial, Helvetica;
+    padding: 14em 42em;
+}
+ 
+legend {
+    background: #2C97DF;     /* Hijau */
+    color: #FFFFFF;          /* Putih */
+    margin-bottom: 10px;
+    padding: 0.5em 1em;
+}
